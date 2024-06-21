@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi! My name is Jiahui Cheng (程家辉).
 
+Some fantastic repos highly recommended here,
+ - [Matlab engineer](https://undocumentedmatlab.com/)
+ - 
 <!--
 **jcheng328/jcheng328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
