@@ -1,6 +1,11 @@
-## Hi! My name is Jiahui Cheng (程家辉).
+## Hi! My name is Jiahui Cheng (程家辉). 
 
-Some fantastic repos highly recommended here,
+- 🔭 I’m currently in Georgia Tech on my final year. 
+- 👯 I’m looking to collaborate on PDE Identification.
+- 🤔 I’m looking for more collaborations.
+- 📫 How to reach me: jcheng328@gatech.edu
+
+Some great repos highly recommended here, especially for the undergraduate and graduate students. 
  - [Matlab engineer](https://undocumentedmatlab.com/)
  - [Writing preparation](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). This is useful for some written description submission, for example, for oral exam.
 <!--
